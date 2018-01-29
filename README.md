@@ -1,6 +1,6 @@
 # assignment-3
 
-* HELLO WORLD
+* HELLO WORLD - Stephen Szymczak
 
 
 1. Post a selfie
@@ -8,4 +8,4 @@
 
 [selfie]: IMG_20180129_125611.jpg
 
-2. Tell me something interesting about yourself
+2. I like gaming and embedded design.
